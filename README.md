@@ -1,6 +1,6 @@
 # K-O11y OpenTelemetry Collector
 
-[한국어](README.ko.md)
+[English](README.md) | [한국어](README.ko.md)
 
 A custom OpenTelemetry Collector distribution with a CRD (Custom Resource Definition) processor.
 
