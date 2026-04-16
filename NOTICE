@@ -1,0 +1,10 @@
+K-O11y OTel Collector
+Copyright 2024 Wondermove Inc.
+
+This project is forked from OpenTelemetry Collector Contrib
+(https://github.com/open-telemetry/opentelemetry-collector-contrib),
+licensed under the Apache License 2.0.
+Copyright The OpenTelemetry Authors.
+
+Wondermove's custom extensions:
+- CRD Processor (Argo Rollouts OwnerReference tracking)
