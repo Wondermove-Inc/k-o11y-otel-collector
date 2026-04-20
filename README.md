@@ -323,10 +323,10 @@ This project follows **passive maintenance** — PRs and issues are reviewed as 
 
 Part of the [K-O11y](https://github.com/Wondermove-Inc/k-o11y) observability stack:
 
-- 🧠 [k-o11y-server](https://github.com/Wondermove-Inc/k-o11y-server) — Self-hosted observability backend (SigNoz fork + ko11y-core)
+- 🧠 [k-o11y-server](https://github.com/Wondermove-Inc/k-o11y-server) — Self-hosted observability backend (ko11y-core + web UI)
 - 📦 [k-o11y-install](https://github.com/Wondermove-Inc/k-o11y-install) — Helm charts + Go CLI installers
 - 📡 **k-o11y-otel-collector** (this repo) — OTel Collector with CRD Processor
-- 🛂 [k-o11y-otel-gateway](https://github.com/Wondermove-Inc/k-o11y-otel-gateway) — SigNoz OTel Collector fork with License Guard
+- 🛂 [k-o11y-otel-gateway](https://github.com/Wondermove-Inc/k-o11y-otel-gateway) — OTel Collector distribution with License Guard
 
 ---
 
