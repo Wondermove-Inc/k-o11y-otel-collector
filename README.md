@@ -340,7 +340,7 @@ Forked from the [OpenTelemetry Collector](https://github.com/open-telemetry/open
 
 <div align="center">
 
-**Built and maintained by [Wondermove](https://wondermove.net)**
+**Built and maintained by [Wondermove](https://www.skuberplus.com)**
 
 Based on the incredible work of the [OpenTelemetry](https://opentelemetry.io) community.
 

@@ -340,7 +340,7 @@ Apache License 2.0 — [LICENSE](LICENSE) 참조.
 
 <div align="center">
 
-**[Wondermove](https://wondermove.net)가 개발 및 관리합니다**
+**[Wondermove](https://www.skuberplus.com)가 개발 및 관리합니다**
 
 [OpenTelemetry](https://opentelemetry.io) 커뮤니티의 훌륭한 작업에 기반합니다.
 
