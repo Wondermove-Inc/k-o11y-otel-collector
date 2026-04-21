@@ -6,7 +6,7 @@
 
 **K-O11y OTel Collector — OpenTelemetry Collector with a CRD Processor that enriches telemetry with Kubernetes CRD labels.**
 
-[English](README.md) | [한국어](README.ko.md)
+[English](README.md) | [한국어](README.ko.md) | [日本語](README.ja.md) | [中文](README.zh-CN.md)
 
 [![Project Status: WIP](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
